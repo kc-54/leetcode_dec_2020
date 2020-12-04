@@ -18,3 +18,8 @@ Status: Accepted, Runtime: 11 ms (83.33% faster), Memory Usage: 40.8 MB
 Question : https://leetcode.com/problems/increasing-order-search-tree/ \
 37 / 37 test cases passed.\
 Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 36.3 MB 
+
+04/12/2020 (The kth Factor of n) \
+Question : https://leetcode.com/problems/the-kth-factor-of-n/ \
+207 / 207 test cases passed.\
+Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 35.9 MB 
