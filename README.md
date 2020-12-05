@@ -23,3 +23,8 @@ Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 36.3 MB
 Question : https://leetcode.com/problems/the-kth-factor-of-n/ \
 207 / 207 test cases passed.\
 Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 35.9 MB 
+
+05/12/2020 (Can Place Flowers) \
+Question : https://leetcode.com/problems/can-place-flowers/ \
+123 / 123 test cases passed.\
+Status: Accepted, Runtime: 1 ms (91.24% faster), Memory Usage: 40.5 MB 
