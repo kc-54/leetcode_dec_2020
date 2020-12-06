@@ -28,3 +28,8 @@ Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 35.9 MB
 Question : https://leetcode.com/problems/can-place-flowers/ \
 123 / 123 test cases passed.\
 Status: Accepted, Runtime: 1 ms (91.24% faster), Memory Usage: 40.5 MB 
+
+06/12/2020 (Populating Next Right Pointers in Each Node II) \
+Question : https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/ \
+55 / 55 test cases passed.\
+Status: Accepted, Runtime: 1 ms (50.73% faster), Memory Usage: 38.6 MB 
