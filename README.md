@@ -35,6 +35,6 @@ Question : https://leetcode.com/problems/populating-next-right-pointers-in-each-
 Status: Accepted, Runtime: 1 ms (50.73% faster), Memory Usage: 38.6 MB 
 
 07/12/2020 (Spiral Matrix II) \
-Question : https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/ \
+Question : https://leetcode.com/problems/spiral-matrix-ii/ \
 20 / 20 test cases passed.\
 Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 37.2 MB 
