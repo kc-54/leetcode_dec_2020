@@ -38,3 +38,8 @@ Status: Accepted, Runtime: 1 ms (50.73% faster), Memory Usage: 38.6 MB
 Question : https://leetcode.com/problems/spiral-matrix-ii/ \
 20 / 20 test cases passed.\
 Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 37.2 MB 
+
+08/12/2020 (Pairs of Songs With Total Durations Divisible by 60) \
+Question : https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/ \
+34 / 34 test cases passed.\
+Status: Accepted, Runtime: 2 ms (99.86% faster), Memory Usage: 45.1 MB 
