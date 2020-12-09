@@ -38,7 +38,7 @@ class Dec09_TestCase {
 		
 		
 		//check
-		assertEquals(true, bst.hasNext());
+		assertTrue(bst.hasNext());
 	}
 	
 	@Test
@@ -52,12 +52,12 @@ class Dec09_TestCase {
 		//check
 		assertEquals(3, bst.next());
 		assertEquals(7, bst.next());
-		assertEquals(true, bst.hasNext());
+		assertTrue(bst.hasNext());
 		assertEquals(9, bst.next());
-		assertEquals(true, bst.hasNext());
+		assertTrue(bst.hasNext());
 		assertEquals(15, bst.next());
 		assertEquals(20, bst.next());
-		assertEquals(false, bst.hasNext());
+		assertFalse(bst.hasNext());
 	}
 
 	@Test
@@ -70,9 +70,9 @@ class Dec09_TestCase {
 		
 		
 		//check
-		assertEquals(true, bst.hasNext());
+		assertTrue(bst.hasNext());
 		assertEquals(7, bst.next());
-		assertEquals(false, bst.hasNext());
+		assertFalse(bst.hasNext());
 	}
 	
 	

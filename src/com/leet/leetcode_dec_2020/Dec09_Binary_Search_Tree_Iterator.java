@@ -13,8 +13,8 @@ public class Dec09_Binary_Search_Tree_Iterator {
 	public static class BSTIterator {
 		
 		@SuppressWarnings("unused")
-		private TreeNode root;
-		private Stack<TreeNode> stackIterator = new Stack<TreeNode>();
+		private final TreeNode root;
+		private final Stack<TreeNode> stackIterator = new Stack<>();
 		
 		public BSTIterator(TreeNode root) {
 			
