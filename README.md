@@ -43,3 +43,8 @@ Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 37.2 MB
 Question : https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/ \
 34 / 34 test cases passed.\
 Status: Accepted, Runtime: 2 ms (99.86% faster), Memory Usage: 45.1 MB 
+
+09/12/2020 (Binary Search Tree Iterator) \
+Question : https://leetcode.com/problems/binary-search-tree-iterator/ \
+61 / 61 test cases passed.\
+Status: Accepted, Runtime: 15 ms (75.71% faster), Memory Usage: 42.9 MB 
