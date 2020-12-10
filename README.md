@@ -1,7 +1,7 @@
 # Leetcode_dec_2020
 Leetcode_challenge_dec_2020
 
-Not the best nor the most optimized answer, feedback is welcome.
+Not the best, nor the most optimized answer, feedback is welcome.
 
 
 01/12/2020 (Maximum Depth of Binary Tree) \
@@ -48,3 +48,8 @@ Status: Accepted, Runtime: 2 ms (99.86% faster), Memory Usage: 45.1 MB
 Question : https://leetcode.com/problems/binary-search-tree-iterator/ \
 61 / 61 test cases passed.\
 Status: Accepted, Runtime: 15 ms (75.71% faster), Memory Usage: 42.9 MB 
+
+10/12/2020 (Valid Mountain Array) \
+Question : https://leetcode.com/problems/valid-mountain-array/ \
+52 / 52 test cases passed.\
+Status: Accepted, Runtime: 1 ms (100.0% faster), Memory Usage: 40.1 MB 
