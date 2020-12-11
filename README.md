@@ -55,6 +55,6 @@ Question : https://leetcode.com/problems/valid-mountain-array/ \
 Status: Accepted, Runtime: 1 ms (100.0% faster), Memory Usage: 40.1 MB 
 
 11/12/2020 (Remove Duplicates from Sorted Array II) \
-Question : https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
+Question : https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/ \
 165 / 165 test cases passed.\
 Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 39.4 MB 
