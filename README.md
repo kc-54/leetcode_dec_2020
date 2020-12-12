@@ -58,3 +58,8 @@ Status: Accepted, Runtime: 1 ms (100.0% faster), Memory Usage: 40.1 MB
 Question : https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/ \
 165 / 165 test cases passed.\
 Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 39.4 MB 
+
+12/12/2020 (Smallest Subtree with all the Deepest Nodes) \
+Question : https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/ \
+58 / 58 test cases passed.\
+Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 36.8 MB 
