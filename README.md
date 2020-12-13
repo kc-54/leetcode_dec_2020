@@ -63,3 +63,8 @@ Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 39.4 MB
 Question : https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/ \
 58 / 58 test cases passed.\
 Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 36.8 MB 
+
+13/12/2020 (Burst Balloons) \
+Question : https://leetcode.com/problems/burst-balloons/ \
+70 / 70 test cases passed.\
+Status: Accepted, Runtime: 7 ms (83.72% faster), Memory Usage: 36.5 MB 
