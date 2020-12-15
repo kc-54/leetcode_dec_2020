@@ -68,3 +68,8 @@ Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 36.8 MB
 Question : https://leetcode.com/problems/burst-balloons/ \
 70 / 70 test cases passed.\
 Status: Accepted, Runtime: 7 ms (83.72% faster), Memory Usage: 36.5 MB 
+
+15/12/2020 (Squares of a Sorted Array) \
+Question : https://leetcode.com/problems/squares-of-a-sorted-array/ \
+137 / 137 test cases passed.\
+Status: Accepted, Runtime: 1 ms (100.0% faster), Memory Usage: 40.8 MB 
