@@ -69,6 +69,11 @@ Question : https://leetcode.com/problems/burst-balloons/ \
 70 / 70 test cases passed.\
 Status: Accepted, Runtime: 7 ms (83.72% faster), Memory Usage: 36.5 MB 
 
+14/12/2020 (Palindrome Partitioning) \
+Question : https://leetcode.com/problems/palindrome-partitioning/ \
+32 / 32 test cases passed.\
+Status: Accepted, Runtime: 7 ms (22.05% faster), Memory Usage: 53.1 MB
+
 15/12/2020 (Squares of a Sorted Array) \
 Question : https://leetcode.com/problems/squares-of-a-sorted-array/ \
 137 / 137 test cases passed.\
