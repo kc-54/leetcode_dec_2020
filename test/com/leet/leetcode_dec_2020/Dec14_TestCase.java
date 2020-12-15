@@ -180,11 +180,7 @@ public class Dec14_TestCase {
 
         //execute
         List<List<String>>  result = palindrome_partitioning.partition(word);
-        System.out.println(result.size());
 
-        for(List<String> expect : result){
-            System.out.println(expect);
-        }
 
         //check
         for(List<String> expect : expected){
