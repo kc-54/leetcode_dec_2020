@@ -77,4 +77,9 @@ Status: Accepted, Runtime: 7 ms (22.05% faster), Memory Usage: 53.1 MB
 15/12/2020 (Squares of a Sorted Array) \
 Question : https://leetcode.com/problems/squares-of-a-sorted-array/ \
 137 / 137 test cases passed.\
-Status: Accepted, Runtime: 1 ms (100.0% faster), Memory Usage: 40.8 MB 
+Status: Accepted, Runtime: 1 ms (100.0% faster), Memory Usage: 40.8 MB
+
+16/12/2020 (Validate Binary Search Tree) \
+Question : https://leetcode.com/problems/validate-binary-search-tree/ \
+77 / 77 test cases passed.\
+Status: Accepted, Runtime: 1 ms (30.88% faster), Memory Usage: 39.1 MB
