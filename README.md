@@ -83,3 +83,8 @@ Status: Accepted, Runtime: 1 ms (100.0% faster), Memory Usage: 40.8 MB
 Question : https://leetcode.com/problems/validate-binary-search-tree/ \
 77 / 77 test cases passed.\
 Status: Accepted, Runtime: 1 ms (30.88% faster), Memory Usage: 39.1 MB
+
+17/12/2020 (4Sum II) \
+Question : https://leetcode.com/problems/4sum-ii/ \
+48 / 48 test cases passed.\
+Status: Accepted, Runtime: 55 ms (98.70% faster), Memory Usage: 58.6 MB
