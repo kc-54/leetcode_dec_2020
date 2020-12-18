@@ -88,3 +88,8 @@ Status: Accepted, Runtime: 1 ms (30.88% faster), Memory Usage: 39.1 MB
 Question : https://leetcode.com/problems/4sum-ii/ \
 48 / 48 test cases passed.\
 Status: Accepted, Runtime: 55 ms (98.70% faster), Memory Usage: 58.6 MB
+
+18/12/2020 (Increasing Triplet Subsequence) \
+Question : //https://leetcode.com/problems/increasing-triplet-subsequence/ \
+61 / 61 test cases passed.\
+Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 38.6 MB
