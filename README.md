@@ -90,6 +90,11 @@ Question : https://leetcode.com/problems/4sum-ii/ \
 Status: Accepted, Runtime: 55 ms (98.70% faster), Memory Usage: 58.6 MB
 
 18/12/2020 (Increasing Triplet Subsequence) \
-Question : //https://leetcode.com/problems/increasing-triplet-subsequence/ \
+Question : https://leetcode.com/problems/increasing-triplet-subsequence/ \
 61 / 61 test cases passed.\
 Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 38.6 MB
+
+19/12/2020 (Cherry Pickup II) \
+Question : https://leetcode.com/problems/cherry-pickup-ii/ \
+58 / 58 test cases passed.\
+Status: Accepted, Runtime: 34 ms (17.06% faster), Memory Usage: 43.2 MB
