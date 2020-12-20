@@ -98,3 +98,8 @@ Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 38.6 MB
 Question : https://leetcode.com/problems/cherry-pickup-ii/ \
 58 / 58 test cases passed.\
 Status: Accepted, Runtime: 34 ms (17.06% faster), Memory Usage: 43.2 MB
+
+20/12/2020 (Decoded String at Index) \
+Question : https://leetcode.com/problems/decoded-string-at-index/ \
+45 / 45 test cases passed.\
+Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 36.9 MB
