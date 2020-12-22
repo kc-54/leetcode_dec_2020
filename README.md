@@ -103,3 +103,8 @@ Status: Accepted, Runtime: 34 ms (17.06% faster), Memory Usage: 43.2 MB
 Question : https://leetcode.com/problems/decoded-string-at-index/ \
 45 / 45 test cases passed.\
 Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 36.9 MB
+
+21/12/2020 (Smallest Range II) \
+Question : https://leetcode.com/problems/smallest-range-ii/ \
+68 / 68 test cases passed.\
+Status: Accepted, Runtime: 7 ms (93.10% faster), Memory Usage: 39 MB
