@@ -108,3 +108,8 @@ Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 36.9 MB
 Question : https://leetcode.com/problems/smallest-range-ii/ \
 68 / 68 test cases passed.\
 Status: Accepted, Runtime: 7 ms (93.10% faster), Memory Usage: 39 MB
+
+22/12/2020 (Balanced Binary Tree) \
+Question : https://leetcode.com/problems/balanced-binary-tree/ \
+228 / 228 test cases passed.\
+Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 38.8 MB
