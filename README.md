@@ -113,3 +113,8 @@ Status: Accepted, Runtime: 7 ms (93.10% faster), Memory Usage: 39 MB
 Question : https://leetcode.com/problems/balanced-binary-tree/ \
 228 / 228 test cases passed.\
 Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 38.8 MB
+
+24/12/2020 (Swap Nodes in Pairs) \
+Question : https://leetcode.com/problems/swap-nodes-in-pairs/ \
+55 / 55 test cases passed.\
+Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 36.5 MB
