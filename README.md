@@ -118,3 +118,8 @@ Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 38.8 MB
 Question : https://leetcode.com/problems/swap-nodes-in-pairs/ \
 55 / 55 test cases passed.\
 Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 36.5 MB
+
+25/12/2020 (Diagonal Traverse) \
+Question : https://leetcode.com/problems/diagonal-traverse/ \
+32 / 32 test cases passed.\
+Status: Accepted, Runtime: 1 ms (100.0% faster), Memory Usage: 41.5 MB
