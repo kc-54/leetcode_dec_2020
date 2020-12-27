@@ -123,3 +123,8 @@ Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 36.5 MB
 Question : https://leetcode.com/problems/diagonal-traverse/ \
 32 / 32 test cases passed.\
 Status: Accepted, Runtime: 1 ms (100.0% faster), Memory Usage: 41.5 MB
+
+26/12/2020 (Decode Ways) \
+Question : https://leetcode.com/problems/decode-ways/ \
+268 / 268 test cases passed.\
+Status: Accepted, Runtime: 1 ms (93.69% faster), Memory Usage: 37.4 MB
